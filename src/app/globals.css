@@ -30,6 +30,7 @@ a { color:var(--primary); }
 .visitor-copy .ant-typography:first-child { font-size:12px; font-weight:600; }
 .mobile-nav-drawer .ant-menu { border-inline-end:0!important; }
 .mobile-nav-drawer .ant-menu-item { height:44px; line-height:44px; margin-block:3px; font-weight:500; }
+/* End Sticky top navigation */
 
 /* Content */
 .app-content { background:#fff; }
